@@ -1,0 +1,14 @@
+12-23-24 
+    - going to use yfinance for now as its easy to get started 
+        - Working w historical data only for now
+
+
+
+Goals: By Priority Level
+    - Intra-day quotes 
+    - improve logging using errors 
+
+
+Goals: Longterm
+    - Other investments - crypto, prediction markets, currencies
+    - Live data 
